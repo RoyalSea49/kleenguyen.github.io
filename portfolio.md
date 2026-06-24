@@ -1,4 +1,6 @@
 ---
 title: "Portfolio"
-layout archive
+layout: archive
+author: Kaylee Nguyen
+author_profile: true
 ---

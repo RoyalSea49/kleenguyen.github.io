@@ -1,9 +1,10 @@
 ---
 layout: archive
-title: About
+title: About 
 permalink: /about/
+author: Kaylee Nguyen
+author_profile: true
 ---
-# Welcome :3 I'm Kaylee
 
 I'm a comupter science and design student at UIC. Initially I chose this major because I love math and I also love design (deep reason I know). What I love about CS is the problem solving– it's like a puzzle and when you finally figure it out at the end, that rewarding feeling can't be beat. Design will really teach you that every decision needs a reason. A button, a word, or even just starting something... if you want to include it, you should be able to explain the reason behind each detail. Design in that way, is deliberate and logical despite being so aesthetically centered. 
 

@@ -1,6 +1,9 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+author: Kaylee Nguyen
+author_profile: true
 ---
+
+# hello
+![placeholder image](/assets/images/istockphoto-1980276924-612x612.jpg){: .avatar}
